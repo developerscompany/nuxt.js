@@ -1819,10 +1819,10 @@
     "@nodelib/fs.scandir" "2.1.3"
     fastq "^1.6.0"
 
-"@nuxt/components@^0.2.3":
-  version "0.2.3"
-  resolved "https://registry.npmjs.org/@nuxt/components/-/components-0.2.3.tgz#24e19335bbf58df132628b44930ffdd30d030fed"
-  integrity sha512-cUfHdxXIAxiEDfzFAiI5aDGDjJCL5b5kDsZtKhmhFTsrdnwv3pybyharSxzmwhvSFNVsqa7K7CmlVmSVccW9/A==
+"@nuxt/components@^0.2.5":
+  version "0.2.5"
+  resolved "https://registry.npmjs.org/@nuxt/components/-/components-0.2.5.tgz#c47b40dadd810cc54853715dd0e0e482e79ffe4e"
+  integrity sha512-mmZBngU7uP4Z+hRUn3VD3H7K40WKFSqqnfZ6m2CWqjQV61jXdnhILPXdM878lOIAjX1MYnZZk6gAVV8JZ5Wq/A==
 
 "@nuxt/devalue@^1.2.4":
   version "1.2.4"
@@ -11087,10 +11087,10 @@ rollup-plugin-license@^2.0.1:
     spdx-expression-validate "2.0.0"
     spdx-satisfies "5.0.0"
 
-rollup@^2.10.5:
-  version "2.10.5"
-  resolved "https://registry.npmjs.org/rollup/-/rollup-2.10.5.tgz#a2e6735fbcbd64453f8aa5d7b5ec1b421974f92c"
-  integrity sha512-05WRM/tjmPYwhOBvm/G9Qwa/HnAqn0TK0XxLDLQzoM4XdSmKjPBvhBl+U+Q/C6VJsucljyTQjGkZD503mjbPQg==
+rollup@^2.10.7:
+  version "2.10.7"
+  resolved "https://registry.npmjs.org/rollup/-/rollup-2.10.7.tgz#7d1a9fa8de146615a098836480df6f8b31c2f058"
+  integrity sha512-rofUSH2i4GymWhQq6bfRaSiVbz4LEB4h/7+AhuXCaeOSwQqClD0hINjs59j8SyfQwcqe83NcVJAY2kjp0h33bQ==
   optionalDependencies:
     fsevents "~2.1.2"
 
